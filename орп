@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Сусанна Кириченко - Психолог</title>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Roboto&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="header">
+        <h1>Вітаю, я Сусанна Кириченко</h1>
+        <h2>Психолог/психотерапевт</h2>
+        <p>Допомагаю розібратися з емоційним станом та покращити якість життя</p>
+        <div class="cta-buttons">
+            <button>Знайомитись</button>
+            <button class="secondary">Записатись</button>
+        </div>
+        <img src="IMG_2882.JPG" alt="Сусанна Кириченко">
+    </div>
+</body>
+</html>
